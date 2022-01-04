@@ -8,5 +8,10 @@ body {
 }
 
 h1{
-	
+	display: flex;
+	align-content: center;
+}
+
+li {
+	list-style-type: square;
 }
